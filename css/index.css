@@ -7,8 +7,9 @@ body {
 section {
   text-align: center;
 }
+
 h1 {
-  font-family: 'THSarabunNewRegular'; 
+  font-family: 'UniqueRegular'; 
   font-size: 250%;
   margin: 15px;
 }
@@ -28,7 +29,7 @@ li {
   margin: 0px 10px;
 }
 img {
-  border-color: #EA7200;
+  border-color: 	#F0E68C;
   border-style: double;
   border-width: 8px;
 }
